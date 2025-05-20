@@ -5,7 +5,7 @@
 1. **Clone the repository**
    ```bash
    git clone [repository-url]
-   cd notes-pwa
+   cd mastra-groq
    ```
 
 2. **Install dependencies**
